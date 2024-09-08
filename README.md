@@ -13,3 +13,7 @@ The initial state of the game before any communications:
 - X knows what class Y belongs to;
 - Y knows what class X belongs to;
 - X and Y do not know what class Z belongs to;
+
+
+## Also
+[The Game of Turing](https://github.com/the-game-of-turing)
