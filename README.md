@@ -3,7 +3,7 @@ The definition of a general class of three player strategic games of deception a
 ## Dramatis Personae
 Here are the roles participating in the performance:
 - X - _**deceptor**_, an entity or a machine that belongs to a class A, trying to convince interrogator that (s)he/it belongs to a class B;
-- Y - _**helper**_, an entity or a machine that belongs to a class B, trying to help interrogator in discovering the truth about the deceptor;
+- Y - _**cooperator**_, an entity or a machine that belongs to a class B, trying to help interrogator in discovering the truth about the deceptor;
 - Z - _**interrogator**_, an entity or a machine that belongs to a class C, trying to discover the real classification of the players X and Y.
 ## The initial state of knowledge
 The initial state of the game before any communications:
